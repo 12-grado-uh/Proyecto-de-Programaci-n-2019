@@ -1,5 +1,8 @@
-# Summary
+# Proyecto de Programación de 12 grado
 
-* [Introduction](README.md)
-* [sdf](sdf.md)
+## Secciones
 
+* [Orientacion General](/orientacion-general.md)
+* [Modelo](/modelo.md)
+* [Proyección Isométrica](/proyeccion-isometrica.md)
+* [Ejemplo](/ejemplo.md)
