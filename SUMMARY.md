@@ -3,8 +3,7 @@
 ## Overview
 
 * [Orientación General](README.md)
-
-## Methods
-
-* [Defining Methods](methods.md)
+* [Modelo](modelo.md)
+* [Vista isométrica](vista-isometrica.md)
+* Ejemplo
 
