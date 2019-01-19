@@ -1,3 +1,7 @@
-# My Awesome API
+## Orientación General
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+El objetivo del proyecto es implementar un sistema capaz de dibujar una escena 3D compuesta por cubos. El programa debe tener una matriz tridimensional como modelo y representarla en una proyección isométrica.  
+
+
+
+
