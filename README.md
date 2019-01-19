@@ -2,10 +2,13 @@
 
 ## Secciones
 
-* [Orientación General](README.md)
-* [Modelo](modelo.md)
-* [Vista isométrica](vista-isometrica.md)
-* [Ejemplo](ejemplo.md)
+* [Orientacion General](/orientacion-general.md)
+
+* [Modelo](https://legacy.gitbook.com/book/danilogomez/proyecto-de-programacion-de-12-grado/edit#)
+
+* [Proyección Isométrica](/proyeccion-isometrica.md)
+
+* [Ejemplo](/ejemplo.md)
 
 
 
